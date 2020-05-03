@@ -1,8 +1,6 @@
 import React from 'react';
 import styles from './Projects.module.css';
 import cx from 'classnames';
-import GridList from '@material-ui/core/GridList';
-import GridListTile from '@material-ui/core/GridListTile';
 import Carousel from '../Carousel/Carousel'
 
  const tileData = [
