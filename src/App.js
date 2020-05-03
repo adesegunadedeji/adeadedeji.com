@@ -14,7 +14,7 @@ function App() {
       <Contact/>
    <footer>
      <hr></hr>
-     <p>  Ade Adedeji |{'Copyright © '} |{new Date().getFullYear()}</p>
+     <p>  Ade Adedeji {'Copyright © '} {new Date().getFullYear()}</p>
    </footer>
     </div>
   );
